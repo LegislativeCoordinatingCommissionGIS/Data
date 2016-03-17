@@ -22,6 +22,7 @@
 
 
 - Embed map on other sites:
+
 `<script src="https://embed.github.com/view/geojson/LegislativeCoordinatingCommissionGIS/Data/ master/<path_to_file>"></script>`
 
 EX: `<script src = "https://embed.github.com/view/geojson/LegislativeCoordinatingCommissionGIS/Data/master/statewide/MnHouse-2012.geojson">
