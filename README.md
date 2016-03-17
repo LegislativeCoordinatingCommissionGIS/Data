@@ -3,11 +3,11 @@
 
 ### What's included?
 - Data (GeoJSON)
-  -statewide
+  - statewide
     - Minnesota Senate Districts
     - Minnesota House Districts
     - Minnesota Congressional Districts
-  -county
+  - county
     - [county]
       - precincts (2015 voting tabulation districts)
 
