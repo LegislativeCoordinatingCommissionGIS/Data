@@ -11,17 +11,7 @@
     - [county]
       - precincts (2015 voting tabulation districts)
 
-### Repository as RESTful API
-- For statewide data:
-`https://raw.githubusercontent.com/LegislativeCoordinatingCommissionGIS/Data/master/statewide/[dataset].geojson`
-
-
-- For chunks of larger datasets
-`https://raw.githubusercontent.com/LegislativeCoordinatingCommissionGIS/Data/master/[geography]/ [subgeography]/[dataset].geojson`
-  - where [geographic area] can be 'statewide', 'county', 
-
-
-- Embed map on other sites:
+### Embed map on other sites
 
 `<script src="https://embed.github.com/view/geojson/LegislativeCoordinatingCommissionGIS/Data/ master/<path_to_file>"></script>`
 
